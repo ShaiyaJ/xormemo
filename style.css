@@ -1,0 +1,24 @@
+.app-container {
+    padding: 0% 25%;
+}
+
+.title {
+    text-align: center;
+}
+
+.password-input {
+    width: 100%;
+}
+
+.text-container {
+    display: flex;
+}
+
+.text-input {
+    width: 51%;
+    margin: 25px;
+}
+
+.text-box {
+    width: 100%;
+}
